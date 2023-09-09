@@ -1,0 +1,3 @@
+PORT=0000 //Puerto en el cual se levanta la aplicacion
+
+MONGODB_CNN={String de conexion} //string de coneccion a mongodb
